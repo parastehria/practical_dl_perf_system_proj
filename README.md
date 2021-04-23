@@ -40,7 +40,7 @@ python run_squad.py \
   --predict_file=dev-v2.0.json \
   --train_batch_size=24 \
   --learning_rate=3e-5 \
-  --num_train_epochs=2.0 \
+  --num_train_epochs=15.0 \
 ```
 
 Learning Rate Paradigms:
