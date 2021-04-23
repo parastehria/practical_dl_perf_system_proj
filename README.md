@@ -80,6 +80,6 @@ To get accuracy score on test set. Run the command:
 
 This will give you EM and F1 score on the dev set.
 
-We highly recommend to refer to this blog for understanding how to run this code:
+We highly recommend everyone to refer to this blog for understanding how to run this code:
 
 https://www.pragnakalp.com/case-study/question-answering-system-in-python-using-bert-nlp/
