@@ -19,6 +19,11 @@ You can download the BERT models from here:
 
 [**12/768 (BERT-Base)**][12_768]
 
+[4_256]: https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-4_H-256_A-4.zip                   
+[8_512]: https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-8_H-512_A-8.zip     
+[12_768]: https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-12_H-768_A-12.zip  
+
+
 #Download the SQUAD train and dev dataset
 
 wget https://rajpurkar.github.io/SQuAD-explorer/dataset/train-v2.0.json
